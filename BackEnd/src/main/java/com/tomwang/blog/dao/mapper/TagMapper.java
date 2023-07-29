@@ -2,6 +2,7 @@ package com.tomwang.blog.dao.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.tomwang.blog.dao.pojo.Tag;
+import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
@@ -10,6 +11,7 @@ import java.util.List;
  * @Date 2021/10/10 21:52
  * @Version 1.0
  */
+@Repository
 public interface TagMapper extends BaseMapper<Tag> {
 
     /**

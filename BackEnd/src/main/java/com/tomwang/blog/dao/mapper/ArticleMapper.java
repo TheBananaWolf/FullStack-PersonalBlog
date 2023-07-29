@@ -14,6 +14,7 @@ import java.util.List;
  * @Date 2021/10/10 21:26
  * @Version 1.0
  */
+@Repository
 public interface ArticleMapper extends BaseMapper<Article> {
     List<Archives> listArchives();
 
