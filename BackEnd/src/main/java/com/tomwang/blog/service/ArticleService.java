@@ -4,11 +4,6 @@ import com.tomwang.blog.vo.Result;
 import com.tomwang.blog.vo.params.ArticleParam;
 import com.tomwang.blog.vo.params.PageParams;
 
-/**
- * @Author ljm
- * @Date 2021/10/11 10:30
- * @Version 1.0
- */
 public interface ArticleService {
 
     /**

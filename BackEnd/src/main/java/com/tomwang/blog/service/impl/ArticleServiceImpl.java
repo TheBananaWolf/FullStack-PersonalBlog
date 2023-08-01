@@ -29,12 +29,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-/**
- * @Author ljm
- * @Date 2021/10/11 10:32
- * @Version 1.0
- */
-
 @Service
 public class ArticleServiceImpl implements ArticleService {
 

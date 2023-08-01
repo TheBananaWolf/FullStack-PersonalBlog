@@ -1,0 +1,36 @@
+# IntelliJ project files
+
+.idea
+
+*.iml
+
+out
+
+gen
+
+/.apt_generated/
+
+/.classpath
+
+/.factor
+
+/.project
+
+/.settings/
+
+/.springBeans
+
+/target/
+
+/.gitignore
+
+/user-profile-analysis.iml
+
+/.idea
+
+/README.md
+
+.DS_Store
+-----------------------------------
+在idea中配置 gitignore忽略文件（一）
+https://blog.51cto.com/u_15060507/4339931

@@ -18,12 +18,6 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.Map;
 import java.util.concurrent.TimeUnit;
 
-
-/**
- * @Author ljm
- * @Date 2021/10/12 20:13
- * @Version 1.0
- */
 //Spring 自动扫描组件// https://blog.csdn.net/u010002184/article/details/72870065
 // @Component – 指示自动扫描组件。
 //@Repository – 表示在持久层DAO组件。

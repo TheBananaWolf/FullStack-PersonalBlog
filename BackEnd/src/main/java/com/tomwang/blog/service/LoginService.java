@@ -5,11 +5,6 @@ import com.tomwang.blog.vo.Result;
 import com.tomwang.blog.vo.params.LoginParam;
 import org.springframework.transaction.annotation.Transactional;
 
-/**
- * @Author ljm
- * @Date 2021/10/12 20:04
- * @Version 1.0
- */
 
 @Transactional
 public interface LoginService {

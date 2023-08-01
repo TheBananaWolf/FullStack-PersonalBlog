@@ -14,11 +14,7 @@ import org.springframework.stereotype.Component;
 import javax.servlet.http.HttpServletRequest;
 import java.lang.reflect.Method;
 
-/**
- * @Author ljm
- * @Date 2021/10/18 21:01
- * @Version 1.0
- */
+
 @Component
 @Aspect //切面 定义了通知和切点的关系
 @Slf4j

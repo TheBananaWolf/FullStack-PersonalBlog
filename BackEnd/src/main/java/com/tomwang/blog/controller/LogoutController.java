@@ -8,11 +8,7 @@ import org.springframework.web.bind.annotation.RequestHeader;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- * @Author ljm
- * @Date 2021/10/13 9:50
- * @Version 1.0
- */
+
 @RestController
 @RequestMapping("logout")
 public class LogoutController {

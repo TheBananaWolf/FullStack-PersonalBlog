@@ -7,11 +7,6 @@ import org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor;
 
 import java.util.concurrent.Executor;
 
-/**
- * @Author ljm
- * @Date 2021/10/15 15:00
- * @Version 1.0
- */
 //https://www.jianshu.com/p/0b8443b1adc9   关于@Configuration和@Bean的用法和理解
 @Configuration
 @EnableAsync //开启多线程

@@ -9,11 +9,6 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- * @Author ljm
- * @Date 2021/10/13 10:43
- * @Version 1.0
- */
 @RestController
 @RequestMapping("register")
 public class RegisterController {

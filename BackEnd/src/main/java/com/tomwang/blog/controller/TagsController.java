@@ -8,11 +8,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- * @Author ljm
- * @Date 2021/10/11 19:54
- * @Version 1.0
- */
+
 //@RestController代表我们返回的是json数据,@RequestMapping("tags")表示路径映射
 @RestController
 @RequestMapping("tags")

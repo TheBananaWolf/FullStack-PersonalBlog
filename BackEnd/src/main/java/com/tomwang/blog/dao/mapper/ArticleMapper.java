@@ -9,11 +9,7 @@ import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
-/**
- * @Author ljm
- * @Date 2021/10/10 21:26
- * @Version 1.0
- */
+
 @Repository
 public interface ArticleMapper extends BaseMapper<Article> {
     List<Archives> listArchives();

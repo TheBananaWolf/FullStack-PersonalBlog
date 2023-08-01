@@ -3,11 +3,6 @@ package com.tomwang.blog.vo;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
-/**
- * @Author ljm
- * @Date 2021/10/10 22:19
- * @Version 1.0
- */
 //@Data这个注解是自动添加各属性的get，set方法，而@AllArgsConstructor这个注解是自动添加类的构造函数
 @Data
 @AllArgsConstructor

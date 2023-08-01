@@ -18,11 +18,7 @@ import org.springframework.stereotype.Service;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @Author ljm
- * @Date 2021/10/16 10:12
- * @Version 1.0
- */
+
 @Service
 public class CommentsServiceImpl implements CommentsService {
     @Autowired

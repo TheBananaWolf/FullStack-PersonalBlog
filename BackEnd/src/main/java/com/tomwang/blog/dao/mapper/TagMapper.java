@@ -6,11 +6,6 @@ import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
-/**
- * @Author ljm
- * @Date 2021/10/10 21:52
- * @Version 1.0
- */
 @Repository
 public interface TagMapper extends BaseMapper<Tag> {
 

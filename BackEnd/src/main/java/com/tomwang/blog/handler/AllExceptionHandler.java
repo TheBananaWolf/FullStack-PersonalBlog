@@ -6,11 +6,6 @@ import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-/**
- * @Author ljm
- * @Date 2021/10/11 22:10
- * @Version 1.0
- */
 //对加了@controller注解的方法进行拦截处理 Aop的实现
 @ControllerAdvice
 public class AllExceptionHandler {

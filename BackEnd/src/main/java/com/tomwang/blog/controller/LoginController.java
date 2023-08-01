@@ -6,11 +6,6 @@ import com.tomwang.blog.vo.params.LoginParam;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-/**
- * @Author ljm
- * @Date 2021/10/12 20:01
- * @Version 1.0
- */
 @RestController
 @RequestMapping("login")
 public class LoginController {

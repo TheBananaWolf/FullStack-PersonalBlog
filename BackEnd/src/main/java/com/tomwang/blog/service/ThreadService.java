@@ -6,11 +6,6 @@ import com.tomwang.blog.dao.pojo.Article;
 import org.springframework.scheduling.annotation.Async;
 import org.springframework.stereotype.Component;
 
-/**
- * @Author ljm
- * @Date 2021/10/15 14:53
- * @Version 1.0
- */
 @Component
 public class ThreadService {
     //期望此操作在线程池执行不会影响原有主线程

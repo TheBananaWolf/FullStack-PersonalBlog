@@ -2,11 +2,6 @@ package com.tomwang.blog.utils;
 
 import com.tomwang.blog.dao.pojo.SysUser;
 
-/**
- * @Author ljm
- * @Date 2021/10/14 15:50
- * @Version 1.0
- */
 public class UserThreadLocal {
 
     private UserThreadLocal() {

@@ -7,11 +7,6 @@ import com.tomwang.blog.vo.params.CommentParam;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-/**
- * @Author ljm
- * @Date 2021/10/16 10:06
- * @Version 1.0
- */
 @RestController
 @RequestMapping("comments")
 public class CommentsController {

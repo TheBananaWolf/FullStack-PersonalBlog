@@ -17,11 +17,6 @@ import org.springframework.web.servlet.HandlerInterceptor;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- * @Author ljm
- * @Date 2021/10/13 11:44
- * @Version 1.0
- */
 //https://blog.csdn.net/fansili/article/details/78740877   @Component, @Repository, @Service的区别
 
 @Component

@@ -9,11 +9,6 @@ import com.tomwang.blog.vo.params.PageParams;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-/**
- * @Author ljm
- * @Date 2021/10/10 21:56
- * @Version 1.0
- */
 //json数据进行交互
 @RestController
 @RequestMapping("articles")

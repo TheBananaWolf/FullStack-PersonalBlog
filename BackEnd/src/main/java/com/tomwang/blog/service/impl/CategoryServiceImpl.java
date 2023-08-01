@@ -14,11 +14,6 @@ import org.springframework.stereotype.Service;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @Author ljm
- * @Date 2021/10/14 21:57
- * @Version 1.0
- */
 @Service
 public class CategoryServiceImpl implements CategoryService {
 

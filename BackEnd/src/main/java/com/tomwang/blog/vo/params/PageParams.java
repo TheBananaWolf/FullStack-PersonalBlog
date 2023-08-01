@@ -2,12 +2,6 @@ package com.tomwang.blog.vo.params;
 
 import lombok.Data;
 
-/**
- * @Author ljm
- * @Date 2021/10/10 22:13
- * @Version 1.0
- * vo里面放置了前端想要的数据
- */
 @Data
 public class PageParams {
 

@@ -4,11 +4,6 @@ import com.tomwang.blog.dao.pojo.SysUser;
 import com.tomwang.blog.vo.Result;
 import com.tomwang.blog.vo.UserVo;
 
-/**
- * @Author ljm
- * @Date 2021/10/11 15:25
- * @Version 1.0
- */
 public interface SysUserService {
 
     UserVo findUserVoById(Long id);
